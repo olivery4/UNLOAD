@@ -1,4 +1,4 @@
-"name": "UNLOAD",
+"name": "remote-core-unloader",
 "author": "Oliver41o",
 "description": "Adds a remote unloader block that pulls items directly from the core.",
 "version": "1.0",
