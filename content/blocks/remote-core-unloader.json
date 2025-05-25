@@ -1,0 +1,25 @@
+"type": "unloader",
+"name": "remote-core-unloader",
+"localizedName": "Remote Core Unloader",
+"description": "Pulls items directly from the core and dumps them into nearby conveyors.",
+"size": 1,
+"health": 1000,
+"itemCapacity": 50,
+"category": "distribution",
+"buildVisibility": "shown",
+"consumes": {
+  "power": 50
+},
+"requirements": [
+  { "item": "titanium", "amount": 50 },
+  { "item": "silicon", "amount": 40 },
+  { "item": "phase-fabric", "amount": 50 }
+],
+"research": {
+  "parent": "unloader",
+  "requirements": [
+    { "item": "titanium", "amount": 15000 },
+    { "item": "silicon", "amount": 10000 },
+    { "item": "phase-fabric", "amount": 10000 }
+  ]
+}
