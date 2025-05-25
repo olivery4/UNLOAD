@@ -1,0 +1,7 @@
+"name": "UNLOAD",
+"author": "Oliver41o",
+"description": "Adds a remote unloader block that pulls items directly from the core.",
+"version": "1.0",
+"minGameVersion": 136,
+"main": "unload.ModMain",
+"java": true
