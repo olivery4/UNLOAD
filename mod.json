@@ -1,7 +1,7 @@
-"name": "remote-core-unloader",
-"author": "Oliver41o",
-"description": "Adds a remote unloader block that pulls items directly from the core.",
+"name": "unload",
+"displayName": "Remote Core Unloader",
+"author": "YourName",
+"description": "A mod that pulls items from the core remotely.",
 "version": "1.0",
-"minGameVersion": 136,
-"main": "unload.ModMain",
-"java": true
+"minGameVersion": "136",
+"main": "unload.ModMain"
